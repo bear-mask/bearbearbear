@@ -31,7 +31,7 @@
 ④진행한주차와예정주차가색으로구분된다 | pass | [캡처](images/000339.png) |
 
 | F-06 | ①하단(footer)에"최종수정일: YYYY-MM-DD" 형식으로표시된다
-②표시된날짜가배포저장소의마지막커밋날짜와같다 | pass | [캡처](images/30856.png) |
+②표시된날짜가배포저장소의마지막커밋날짜와같다 | pass | [캡처](images/004816.png) |
 
 | Q-HTML | W3C HTML 검사기(https://validator.w3.org/)로 배포 URL 검사 | FAIL | [캡처](images/002609.png) |
 
